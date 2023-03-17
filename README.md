@@ -8,7 +8,7 @@ The aim of this module is to present well structured and documented solution for
 [Instalation](#installation)  
 [Project Structure](#ProjectStructure)  
 [Solved challenge](#Solved Chalange)  
-[Configuration](#Configuration)  
+
 
 
 
